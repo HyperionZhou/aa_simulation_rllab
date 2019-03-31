@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-@author: Edward Ahn
+@author: Edward Ahn & Jiyuan Zhou
 
 Train local planner using TRPO so that a vehicle can follow a
 straight line.

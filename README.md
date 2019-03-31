@@ -1,3 +1,5 @@
+This is the working place of aa_simulation, which includes all trajectory experiments data, presentation videos, and bug analysis excel file.
+
 rllab is no longer under active development, but an [alliance of researchers](https://github.com/rlworkgroup/) from several universities has adopted it, and now maintains it under the name [**garage**](https://github.com/rlworkgroup/garage).
 
 We recommend you develop new projects, and rebase old ones, onto the actively-maintained [garage](https://github.com/rlworkgroup/garage) codebase, to promote reproducibility and code-sharing in RL research. The new codebase shares almost all of its code with rllab, so most conversions only need to edit package import paths and perhaps update some renamed functions. 
